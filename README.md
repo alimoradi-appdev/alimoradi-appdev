@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @alimoradi-appdev
+- 👋hi iam ali moradi 
+-  @alimoradi-appdev
 - 👀 iam java devloper and android devloper
 - 📫 @alimoradi_2005 in telegram and instagram
